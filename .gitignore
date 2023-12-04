@@ -2,3 +2,6 @@
 /results
 /logs
 __pycache__
+/reinforcement_learning/MNIST
+tmp*
+*.html
