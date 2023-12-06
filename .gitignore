@@ -3,5 +3,6 @@
 /logs
 __pycache__
 /reinforcement_learning/MNIST
+/nlp/distilbert-base-uncased-finetuned-emotion
 tmp*
 *.html
